@@ -4,7 +4,7 @@
 
 1ClickStat is a simple and powerful **business data analysis tool** built with Streamlit. Upload your dataset and explore useful insights, statistics, business metrics, filters, correlations, and visualizations — all in one place.
 
-![1ClickStat UI](ui.png)
+![1ClickStat UI](uii.png)
 
 ---
 
